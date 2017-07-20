@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="prosperaEE:ear">
+    <output-path>$PROJECT_DIR$/prosperaEE/target</output-path>
+    <root id="archive" name="prosperaEE-0.0.1-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="prosperaEE:ear exploded" />
+    </root>
+  </artifact>
+</component>
